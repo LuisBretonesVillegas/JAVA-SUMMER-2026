@@ -1,4 +1,4 @@
-/*
+/*2 stars
 Write a program that reads an unspecified number of scores and
 determines how many scores are above or equal to the average, and how many
 scores are below the average. Enter a negative number to signify the end of the
@@ -9,7 +9,7 @@ package Semana_2.tema_7;
 import java.util.Scanner;
 
 //Don't forget to call the methods in main (int length...) without it the program just doesn't work
-public class countOcurrenceOfNumbersWithMethods7_4 {
+public class countOcurrenceOfNumbersWithMethods7_3 {
     static void main(String[] args) {
         int[] scores = new int[100];
         System.out.println("Write the scores of your students (prompt a negative number to finish the program).");
