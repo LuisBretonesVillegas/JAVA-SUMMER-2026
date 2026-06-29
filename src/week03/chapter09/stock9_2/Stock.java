@@ -1,4 +1,4 @@
-/*
+/* 0 stars
 Following the example of the Circle class in Section 9.2,
 design a class named Stock that contains:
 ■■ A string data field named symbol for the stock’s symbol.

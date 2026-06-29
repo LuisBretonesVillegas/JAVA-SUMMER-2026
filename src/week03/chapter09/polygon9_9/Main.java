@@ -1,3 +1,9 @@
+/*
+Write a test pro-
+gram that creates three RegularPolygon objects, created using the no-arg con-
+structor, using RegularPolygon(6, 4), and using RegularPolygon(10, 4,
+5.6, 7.8). For each object, display its perimeter and area.
+ */
 package week03.chapter09.polygon9_9;
 
 public class Main {

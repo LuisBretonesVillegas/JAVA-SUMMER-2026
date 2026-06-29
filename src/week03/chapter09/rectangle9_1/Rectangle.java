@@ -1,6 +1,6 @@
 package week03.chapter09.rectangle9_1;
 
-/*
+/* 0 stars
 Exercise 9.1 (The Rectangle class)
 Following the example of the Circle class, this class represents a rectangle
 defined by its width and height.

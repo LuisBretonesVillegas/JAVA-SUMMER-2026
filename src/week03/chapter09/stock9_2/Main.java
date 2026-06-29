@@ -1,4 +1,4 @@
-/*
+/*0 stars
 Write a test pro-
 gram that creates a Stock object with the stock symbol ORCL, the name Oracle
 Corporation, and the previous closing price of 34.5. Set a new current price to
