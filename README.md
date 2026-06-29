@@ -5,7 +5,7 @@ No tutorials. Raw notes, exercises, and honest reflections.
 
 ## Progress
 
-**7 / 29 chapters completed**
+**9 / 29 chapters completed**
 
 | Chapter | Topic                                                   | Status |
 |---------|---------------------------------------------------------|--------|
