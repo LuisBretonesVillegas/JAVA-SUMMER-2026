@@ -46,12 +46,11 @@ public class RegularPolygon {
         this.y = y;
     }
 
-    //Accesors
+    //accesors & mutators
     public int getN() {
         return n;
     }
 
-    //Mutators
     public void setN(int n) {
         this.n = n;
     }
