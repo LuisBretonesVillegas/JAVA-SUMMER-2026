@@ -19,7 +19,7 @@ No tutorials. Raw notes, exercises, and honest reflections.
 | 8       | Multidimensional Arrays                                 | ✅      |
 | 9       | Objects and Classes                                     | ✅      |
 | 10      | Thinking in Objects                                     | ⬜      |
-| 11      | Inheritance and Polymorphism                            | ⬜      |s
+| 11      | Inheritance and Polymorphism                            | ⬜      |
 | 12      | Exception Handling and Text I/O                         | ⬜      |
 | 13      | Abstract Classes and Interfaces                         | ⬜      |
 | 14      | JavaFX Basics                                           | ⬜      |
