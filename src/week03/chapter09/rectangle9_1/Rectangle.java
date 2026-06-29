@@ -1,4 +1,4 @@
-package week03.chapter09.rectangle;
+package week03.chapter09.rectangle9_1;
 
 /*
 Exercise 9.1 (The Rectangle class)

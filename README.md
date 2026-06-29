@@ -17,7 +17,7 @@ No tutorials. Raw notes, exercises, and honest reflections.
 | 6       | Methods                                                 | ✅      |
 | 7       | Single-Dimensional Arrays                               | ✅      |
 | 8       | Multidimensional Arrays                                 | ✅      |
-| 9       | Objects and Classes                                     | ⬜      |
+| 9       | Objects and Classes                                     | ✅      |
 | 10      | Thinking in Objects                                     | ⬜      |
 | 11      | Inheritance and Polymorphism                            | ⬜      |s
 | 12      | Exception Handling and Text I/O                         | ⬜      |

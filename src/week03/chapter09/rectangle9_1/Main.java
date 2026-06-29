@@ -1,7 +1,6 @@
-package week03.chapter09.rectangle;
+package week03.chapter09.rectangle9_1;
 
-/*
-Test program for exercise 9.1.
+/*0 stars
 Creates two Rectangle objects (4 by 40 and 3.5 by 35.9) and displays the
 width, height, area and perimeter of each one, in this order.
  */
